@@ -1,4 +1,4 @@
-![logo](https://downscayl.github.io/logo.jpg)
+<img src="https://downscayl.github.io/logo.jpg" width="128" height="128">
 
 # Downscayl
 The swiss army knife of effortless image compression
