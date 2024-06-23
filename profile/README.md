@@ -3,7 +3,7 @@
 # Downscayl
 The swiss army knife of effortless image compression
 
-## Try it
+## Use it now!
 https://downscayl.github.io/
 
 ## About Downscayl
