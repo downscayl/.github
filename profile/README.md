@@ -1,3 +1,5 @@
+![logo](https://downscayl.github.io/logo.jpg)
+
 # Downscayl
 The swiss army knife of effortless image compression
 
